@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638849492 source:c:\users\mohamed_adel\c programs\vuln\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
